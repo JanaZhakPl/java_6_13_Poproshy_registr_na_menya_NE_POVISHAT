@@ -9,9 +9,9 @@ public class Main {
         String usa = "сша";
 
         //напишите тут ваш код
-        System.out.println(usa.toUpperCase(Locale.ROOT));
-        System.out.println("Винни Пух".toUpperCase(Locale.ROOT));
-        System.out.println((caps + "they know I mean business").toUpperCase(Locale.ROOT));
+        System.out.println(usa.toUpperCase());
+        System.out.println("Винни Пух".toUpperCase());
+        System.out.println((caps + "they know I mean business").toUpperCase());
     }
 }
 /* 1В методе main на экран выводятся три строки. Внеси изменения в код, чтобы все буквы в этих строках стали заглавными.*/
